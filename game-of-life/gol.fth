@@ -1,3 +1,5 @@
+#! /usr/bin/env -S gforth --die-on-signal
+
 \ gol.fth - Game of Life in GForth
 \ Copyright (C) 2022 Robert Coffey
 \ Released under the GPLv3.
@@ -78,3 +80,5 @@ create b2 size chars allot b2 size chars erase
     loop cr loop ;
 
 : play ( -- )   reset init draw begin 500 ms update draw again ;
+
+play
