@@ -1,6 +1,6 @@
 #! /usr/bin/env -S gforth --die-on-signal
 
-\ gol.fth - Game of Life in GForth
+\ gol.fth - Game of Life in Gforth
 \ Copyright (C) 2022 Robert Coffey
 \ Released under the GPLv3.
 
