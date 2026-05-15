@@ -1,9 +1,5 @@
 ;;;; General Elementary Cellular Automata
 ;;
-;;; Description
-;; This is an implementation of a general elementary cellular automata, general
-;; as in for any rule.
-;;
 ;;; Usage
 ;; Compile: csc elementary.scm
 ;; Execute: ./elementary RULE COUNT
@@ -19,8 +15,8 @@
 ;; - vector-lib
 ;;
 ;;; License
-;; Copyright (C) 2021 Robert Coffey
-;; Released under the GPLv3
+;; Copyright (C) 2021-2026 Robert Coffey
+;; Released under the MIT license.
 
 (import (chicken process-context)
         vector-lib)
