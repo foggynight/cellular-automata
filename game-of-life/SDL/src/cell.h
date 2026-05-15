@@ -1,6 +1,3 @@
-// Copyright (C) 2020 Robert Coffey
-// Released under the GPLv2 license
-
 #ifndef CELL_H_
 #define CELL_H_
 

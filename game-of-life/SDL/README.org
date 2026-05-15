@@ -1,5 +1,7 @@
 #+title: game-of-life
 
+John Conway's: Game of Life implemented in C using the SDL2 library.
+
 * Installation
 
 #+begin_src sh
@@ -18,11 +20,6 @@ make
 
 * License
 
-Copyright (C) 2020 Robert Coffey
+Copyright (C) 2020-2026 Robert Coffey
 
-This is free software: you can redistribute it and/or modify it under the terms
-of the GNU General Public License version 2 as published by the Free Software
-Foundation.
-
-You should have received a copy of the GNU General Public License version 2
-along with this software. If not, see [[https://www.gnu.org/licenses/gpl-2.0][GPLv2]].
+This software has been released under the MIT license.

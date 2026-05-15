@@ -1,8 +1,8 @@
 #! /usr/bin/env -S gforth --die-on-signal
 
 \ gol.fth - Game of Life in Gforth
-\ Copyright (C) 2022 Robert Coffey
-\ Released under the GPLv3.
+\ Copyright (C) 2022-2026 Robert Coffey
+\ Released under the MIT license.
 
 40 constant width
 24 constant height

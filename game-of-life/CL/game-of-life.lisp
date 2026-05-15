@@ -5,8 +5,8 @@
 ;;
 ;; John Conway's: Game of Life, printed directly to the terminal.
 ;;
-;; Copyright (C) 2021 Robert Coffey
-;; Released under the GPLv2 license
+;; Copyright (C) 2021-2026 Robert Coffey
+;; Released under the MIT license.
 ;;;
 
 (defparameter *grid-width* 40)   ; Cell grid width in characters

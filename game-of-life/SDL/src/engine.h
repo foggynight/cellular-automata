@@ -1,6 +1,3 @@
-// Copyright (C) 2020 Robert Coffey
-// Released under the GPLv2 license
-
 #ifndef ENGINE_H_
 #define ENGINE_H_
 

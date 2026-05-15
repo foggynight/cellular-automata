@@ -2,8 +2,8 @@
  *
  * Conway's Game of Life implementing using the olcPixelGameEngine.
  *
- * Copyright (C) 2020 Robert Coffey
- * Released under the GPLv2 and OLC-3 licenses */
+ * Copyright (C) 2020-2026 Robert Coffey
+ * Released under the OLC-3 license. */
 
 #include <vector>
 

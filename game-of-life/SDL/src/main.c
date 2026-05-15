@@ -1,10 +1,3 @@
-/* --- game-of-life/SDL ---
- *
- * Conway's Game of Life implemented using the SDL library.
- *
- * Copyright (C) 2020 Robert Coffey
- * Released under the GPLv2 license */
-
 #include <stdlib.h>
 
 #define RTB_DEFINE
