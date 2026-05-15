@@ -1,7 +1,10 @@
 # cellular-automata
 
-- `elementary`: Various implementations of elementary cellular automata.
-- `game-of-life`: Various implementations of Conway's Game of Life.
+This repository contains various implementations of cellular automata. Its
+purpose is to practice with new programming languages and libraries.
+
+- `elementary`: Elementary Cellular Automata
+- `game-of-life`: John Conway's: Game of Life
 
 ## License
 
